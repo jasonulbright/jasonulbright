@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="288" viewBox="0 0 1200 288" role="img" aria-labelledby="title desc">
+  <title id="title">Jason Ulbright — Signal Ridge Labs</title>
+  <desc id="desc">Practical tools. Curious projects. Systems, desktop apps, audio and games. An amber ridge line on a dark blue background.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101c2c"/>
+      <stop offset="1" stop-color="#172a3a"/>
+    </linearGradient>
+    <linearGradient id="ridge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#efbf69" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#efbf69" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#c2d8e4" stroke-opacity=".05"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="288" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="288" rx="18" fill="url(#grid)"/>
+  <path d="M750 230L842 170L877 185L951 78L1015 150L1052 132L1140 215L1200 189V288H750Z" fill="url(#ridge)"/>
+  <path d="M750 230L842 170L877 185L951 78L1015 150L1052 132L1140 215L1200 189" fill="none" stroke="#efbf69" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M842 170L855 198L877 185M951 78L952 129L978 108M1052 132L1060 169L1083 161" fill="none" stroke="#efbf69" stroke-width="1.5" stroke-opacity=".35"/>
+  <circle cx="951" cy="78" r="6" fill="#efbf69"/>
+  <circle cx="951" cy="78" r="18" fill="none" stroke="#efbf69" stroke-opacity=".2"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="54" y="55" font-size="13" font-weight="600" letter-spacing="3" fill="#efbf69">SIGNAL RIDGE LABS</text>
+    <text x="50" y="126" font-size="54" font-weight="700" letter-spacing="-1.5" fill="#f3f6fa">Jason Ulbright</text>
+    <text x="54" y="175" font-size="26" fill="#c7d5e1">Practical tools. Curious projects.</text>
+    <path d="M54 207H110" stroke="#efbf69" stroke-width="3"/>
+    <text x="54" y="244" font-size="13" font-weight="500" letter-spacing="2" fill="#9ab1c3">SYSTEMS / DESKTOP APPS / AUDIO &amp; GAMES</text>
+  </g>
+</svg>
