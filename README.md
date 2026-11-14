@@ -29,7 +29,7 @@ I build and share tools I use at work and outside it: systems administration, de
   <a href="https://github.com/jasonulbright/app-packager-desktop"><img src="assets/app-packager-desktop.png" alt="The App Packager Desktop page with the version, ConfigMgr, status and CVE columns filled for checked applications" width="80%"></a>
 </p>
 
-**[App Packager Desktop](https://github.com/jasonulbright/app-packager-desktop)** is a Windows desktop application that packages third-party applications and publishes them to ConfigMgr, Intune and WSUS. It also includes eight tools: Installer Analysis, Detection Tester, Deployment Helper, Pivots and Scripts, Collection and Compliance, Maintenance Windows, DP Content Manager and Site Hygiene. Every tool that changes a site shows a plan first and changes nothing until you confirm it.
+**[App Packager Desktop](https://github.com/jasonulbright/app-packager-desktop)** is a Windows desktop application that packages third-party applications and publishes them to ConfigMgr, Intune and WSUS. It also includes eight tools: Installer Analysis, Detection Tester, Deployment Helper, Pivots and Scripts, Collection and Compliance, Maintenance Windows, DP Content Manager and Site Hygiene.
 
 [Repository](https://github.com/jasonulbright/app-packager-desktop) &nbsp;·&nbsp; [Latest release](https://github.com/jasonulbright/app-packager-desktop/releases/latest) &nbsp;·&nbsp; [User guide](https://github.com/jasonulbright/app-packager-desktop/blob/main/docs/index.md)
 
